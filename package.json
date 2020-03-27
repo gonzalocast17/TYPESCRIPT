@@ -4,7 +4,7 @@
   "description": "Paquete de instalación para dependencias",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "init-loopback": "npm start"
   },
   "repository": {
     "type": "git",

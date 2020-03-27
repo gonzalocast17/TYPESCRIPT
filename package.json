@@ -22,5 +22,8 @@
   "homepage": "https://github.com/gonzalocast17/TYPESCRIPT#readme",
   "devDependencies": {
     "typescript": "^3.8.3"
+  },
+  "dependencies": {
+    "@loopback/cli": "^2.2.1"
   }
 }
